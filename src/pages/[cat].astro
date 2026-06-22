@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const { cat } = Astro.props;
+const catName = { sketch: '速写', calligraphy: '硬笔书法', appreciation: '审美鉴赏', practice: '每日练习' };
+const catIcon = { sketch: '🎨', calligraphy: '✍️', appreciation: '👁️', practice: '⏱️' };
+const catDesc = {
+  sketch: '线条技法 · 形体结构 · 中西融合表达 · 写实 · 夸张变形 · 创意',
+  calligraphy: '笔画技法 · 间架结构 · 章法布局 · 日常实战应用',
+  appreciation: '大师研究 · 碑帖名画赏析 · 书画同源理论 · 线条美学',
+  practice: '打卡训练 · 命题创作 · 碎片化练习方案',
+};
+
+const all = await getCollection('articles');
+const articles = all
+  .filter(a => a.data.category === cat)
+  .sort((a, b) => {
+    const da = a.data.date || '';
+    const db = b.data.date || '';
+    return db.localeCompare(da);
+  });
+---
+
+<BaseLayout title={`${catName[cat]} · 书画同修`} description={catDesc[cat]}>
+  <div class="container" style="padding-top: 48px;">
+    <div style="margin-bottom: 32px;">
+      <h1 style="font-family: var(--font-serif); font-size: 1.8rem; color: var(--ink-darkest); letter-spacing: 2px;">
+        {catIcon[cat]} {catName[cat]}
+      </h1>
+      <p style="color: var(--ink-light); font-size: 0.9rem; margin-top: 8px;">{catDesc[cat]}</p>
+      <p style="color: var(--ink-lighter); font-size: 0.8rem; margin-top: 4px;">共 {articles.length} 篇</p>
+    </div>
+
+    {articles.length > 0 ? (
+      <div class="article-list">
+        {articles.map(article => (
+          <article class="article-item">
+            <div class="article-info">
+              <h3><a href={`/articles/${article.id}`}>{article.data.title}</a></h3>
+              {article.data.excerpt && <p class="excerpt">{article.data.excerpt}</p>}
+              <div class="meta">
+                <span class="level">{article.data.level}</span>
+                <span>{article.data.date}</span>
+                {article.data.tags.slice(0, 4).map(tag => <span>#{tag}</span>)}
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div style="text-align: center; padding: 64px 0; color: var(--ink-light);">
+        <p style="font-size: 1.1rem; margin-bottom: 8px;">📋 内容建设中</p>
+        <p>每日持续更新中...</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>

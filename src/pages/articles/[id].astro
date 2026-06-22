@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(article => ({
+    params: { id: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+const catName = { sketch: '速写', calligraphy: '硬笔书法', appreciation: '审美鉴赏', practice: '每日练习' };
+const catHref = { sketch: '/sketch', calligraphy: '/calligraphy', appreciation: '/appreciation', practice: '/practice' };
+---
+
+<BaseLayout title={`${article.data.title} · 书画同修`} description={article.data.excerpt}>
+  <article class="article-detail container">
+    <div class="article-header">
+      <div style="margin-bottom: 12px;">
+        <a href={catHref[article.data.category]} style="font-size: 0.8rem; color: var(--ink-light);">
+          ← 返回{catName[article.data.category]}
+        </a>
+      </div>
+      <h1>{article.data.title}</h1>
+      <div class="meta">
+        <span class="cat-badge" data-cat={article.data.category} style="font-size: 0.7rem; font-weight: 600; padding: 3px 10px; border-radius: 20px;">
+          {catName[article.data.category]}
+        </span>
+        <span class="level">{article.data.level}</span>
+        <span>{article.data.date}</span>
+      </div>
+      {article.data.tags.length > 0 && (
+        <div class="tag-list">
+          {article.data.tags.map(tag => <span class="tag">#{tag}</span>)}
+        </div>
+      )}
+    </div>
+
+    <div class="article-body">
+      <Content />
+    </div>
+
+    <div style="margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;">
+      <a href={catHref[article.data.category]} style="font-size: 0.85rem;">
+        ← 返回{catName[article.data.category]}列表
+      </a>
+      <a href="/" style="font-size: 0.85rem;">
+        回到首页 →
+      </a>
+    </div>
+  </article>
+</BaseLayout>

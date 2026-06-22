@@ -1,0 +1,48 @@
+---
+import '../styles/global.css';
+
+const { title = '书画同修', description = '速写与硬笔书法的系统性学习平台' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="generator" content={Astro.generator} />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  
+  <!-- Noto Serif SC & Noto Sans SC -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">书画<span>同修</span></a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="/">首页</a></li>
+          <li><a href="/sketch">速写</a></li>
+          <li><a href="/calligraphy">书法</a></li>
+          <li><a href="/appreciation">鉴赏</a></li>
+          <li><a href="/practice">练习</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>书画同修 · 以线立骨 · 中西融通</p>
+    </div>
+  </footer>
+</body>
+</html>

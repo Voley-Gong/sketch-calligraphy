@@ -1,0 +1,83 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles');
+const sorted = articles.sort((a, b) => {
+  const da = a.data.date || '';
+  const db = b.data.date || '';
+  return db.localeCompare(da);
+});
+
+const categories = [
+  { id: 'sketch', name: '速写', icon: '🎨', desc: '线条技法 · 形体结构 · 中西融合表达', color: 'var(--cat-sketch)' },
+  { id: 'calligraphy', name: '硬笔书法', icon: '✍️', desc: '笔画技法 · 间架结构 · 日常实战', color: 'var(--cat-calligraphy)' },
+  { id: 'appreciation', name: '审美鉴赏', icon: '👁️', desc: '大师研究 · 碑帖赏析 · 书画同源', color: 'var(--cat-appreciation)' },
+  { id: 'practice', name: '每日练习', icon: '⏱️', desc: '打卡训练 · 命题创作 · 碎片练习', color: 'var(--cat-practice)' },
+];
+
+const countByCat = (cat) => articles.filter(a => a.data.category === cat).length;
+const recent = sorted.slice(0, 8);
+
+const catNames = { sketch: '速写', calligraphy: '书法', appreciation: '鉴赏', practice: '练习' };
+---
+
+<BaseLayout>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <div class="seal">书画并行</div>
+      <h1>以线立骨 · 中西融通</h1>
+      <p class="subtitle">
+        速写融中国画线条意境与西方严谨结构，硬笔书法为日常实战，毛笔做审美滋养。<br/>
+        从基础重建到个性化创作，持续积累，书画同修。
+      </p>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <div class="container">
+    <div class="category-grid">
+      {categories.map(cat => (
+        <a href={`/${cat.id}`} class="category-card" data-cat={cat.id}>
+          <span class="count">{countByCat(cat.id)} 篇</span>
+          <span class="icon">{cat.icon}</span>
+          <h3>{cat.name}</h3>
+          <p class="desc">{cat.desc}</p>
+        </a>
+      ))}
+    </div>
+
+    <!-- Recent Articles -->
+    {recent.length > 0 && (
+      <>
+        <h2 class="section-title">📝 最新内容</h2>
+        <div class="article-list">
+          {recent.map(article => (
+            <article class="article-item">
+              <span class="cat-badge" data-cat={article.data.category}>
+                {catNames[article.data.category]}
+              </span>
+              <div class="article-info">
+                <h3><a href={`/articles/${article.id}`}>{article.data.title}</a></h3>
+                {article.data.excerpt && <p class="excerpt">{article.data.excerpt}</p>}
+                <div class="meta">
+                  <span class="level">{article.data.level}</span>
+                  <span>{article.data.date}</span>
+                  {article.data.tags.slice(0, 3).map(tag => <span>#{tag}</span>)}
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+      </>
+    )}
+
+    {recent.length === 0 && (
+      <div style="text-align: center; padding: 64px 0; color: var(--ink-light);">
+        <p style="font-size: 1.1rem; margin-bottom: 8px;">📚 内容正在建设中</p>
+        <p>每日持续更新，敬请期待</p>
+      </div>
+    )}
+  </div>
+</BaseLayout>
