@@ -1,17 +1,11 @@
-# 书画网内容扩充进度
+# 书画网内容生成进度
 
 ## 轮换顺序
-sketch → calligraphy → sketch → appreciation → sketch → practice → calligraphy → sketch → appreciation → sketch
-（速写占40%，书法25%，鉴赏20%，练习15%）
+sketch → calligraphy → sketch → appreciation → sketch → practice → (循环)
 
 ## 已生成内容
+（暂无，等待首次 cron 执行）
 
-### 2026-06-22（种子内容，手动创建）
-- [x] sketch: 线条的质量：速写中最重要的一课
-- [x] calligraphy: 硬笔书法入门：从选笔到第一笔
-- [x] appreciation: 书画同源：赵孟頫的理论与中国画的线条密码
-- [x] practice: 地铁速写：40分钟通勤时间的观察训练
-
-## 下次轮换
-- 下一个分类：sketch
-- 建议主题：握笔姿势与坐姿 / 坐标观察法 / 几何形体概括
+## 当前位置
+- 下次分类：sketch
+- 下次主题：Phase 1 基础 - 握笔与线条基本功
