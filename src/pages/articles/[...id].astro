@@ -14,7 +14,7 @@ const { article } = Astro.props;
 const { Content } = await render(article);
 
 const catName = { sketch: '速写', calligraphy: '硬笔书法', appreciation: '审美鉴赏', practice: '每日练习' };
-const catHref = { sketch: '/sketch', calligraphy: '/calligraphy', appreciation: '/appreciation', practice: '/practice' };
+const catHref = { sketch: `${import.meta.env.BASE_URL}sketch`, calligraphy: `${import.meta.env.BASE_URL}calligraphy`, appreciation: `${import.meta.env.BASE_URL}appreciation`, practice: `${import.meta.env.BASE_URL}practice` };
 ---
 
 <BaseLayout title={`${article.data.title} · 书画同修`} description={article.data.excerpt}>
@@ -48,7 +48,7 @@ const catHref = { sketch: '/sketch', calligraphy: '/calligraphy', appreciation: 
       <a href={catHref[article.data.category]} style="font-size: 0.85rem;">
         ← 返回{catName[article.data.category]}列表
       </a>
-      <a href="/" style="font-size: 0.85rem;">
+      <a href={import.meta.env.BASE_URL} style="font-size: 0.85rem;">
         回到首页 →
       </a>
     </div>
