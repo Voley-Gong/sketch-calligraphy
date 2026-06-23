@@ -11,7 +11,7 @@ export async function getStaticPaths() {
   ];
 }
 
-const { cat } = Astro.props;
+const { cat } = Astro.params;
 const catName = { sketch: '速写', calligraphy: '硬笔书法', appreciation: '审美鉴赏', practice: '每日练习' };
 const catIcon = { sketch: '🎨', calligraphy: '✍️', appreciation: '👁️', practice: '⏱️' };
 const catDesc = {
