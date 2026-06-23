@@ -39,7 +39,7 @@ const catNames = { sketch: '速写', calligraphy: '书法', appreciation: '鉴�
   <div class="container">
     <div class="category-grid">
       {categories.map(cat => (
-        <a href={`/${cat.id}`} class="category-card" data-cat={cat.id}>
+        <a href={`${import.meta.env.BASE_URL}${cat.id}`} class="category-card" data-cat={cat.id}>
           <span class="count">{countByCat(cat.id)} 篇</span>
           <span class="icon">{cat.icon}</span>
           <h3>{cat.name}</h3>
@@ -59,7 +59,7 @@ const catNames = { sketch: '速写', calligraphy: '书法', appreciation: '鉴�
                 {catNames[article.data.category]}
               </span>
               <div class="article-info">
-                <h3><a href={`/articles/${article.id}`}>{article.data.title}</a></h3>
+                <h3><a href={`${import.meta.env.BASE_URL}articles/${article.id}`}>{article.data.title}</a></h3>
                 {article.data.excerpt && <p class="excerpt">{article.data.excerpt}</p>}
                 <div class="meta">
                   <span class="level">{article.data.level}</span>
