@@ -36,7 +36,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 28. 伯里曼人体结构体系——用方盒子与圆柱搭建人体的西方严谨学派 (28, 2026-06-27)
 29. 路米斯方法——用比例测量系统画准任何角度的人体 (29, 2026-06-27) ← NEW
 
-### calligraphy（17篇）
+### calligraphy（19篇）
 1. Getting Started / 硬笔入门 (001, 2026-06-22)
 2. 八种基本笔画 (01, 2026-06-22)
 3. 横竖撇捺点钩折——七种基本笔画的写法与常见错误 (02, 2026-06-23)
@@ -54,7 +54,9 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 15. 硬笔章法进阶——横写与竖写的排版技巧 (14, 2026-06-27)
 16. 硬笔书法考级指南——从1级到9级的完整通关路线图 (15, 2026-06-27)
 17. 硬笔书法的节奏感：从兰亭序到日常书写的速度控制 (16, 2026-06-27)
-18. 楷书→行书→隶书：三种字体的硬笔转换指南 (17, 2026-06-27) ← NEW
+18. 楷书→行书→隶书：三种字体的硬笔转换指南 (17, 2026-06-27)
+19. 硬笔书法创作入门——从单字练习到一幅完整作品的进阶路径 (18, 2026-06-27)
+20. 硬笔工具进阶——墨水、纸张与改装笔的性能搭配指南 (19, 2026-06-27) ← NEW
 
 ### appreciation（15篇）
 1. 书画同源：赵孟頫的理论与中国画的线条密码 (001, 2026-06-22)
@@ -87,11 +89,11 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 11. 旅行速写专题——用画笔记录旅途，从观察到取景的完整方案 (011, 2026-06-27) ← NEW
 
 ## 当前位置
-- 本次新增：2篇 sketch（伯里曼人体结构 + 路米斯比例方法）
-- 下次分类：calligraphy → appreciation → practice → sketch（按轮换继续）
-- 下次 calligraphy：硬笔书法常见败笔诊断与纠正；或不同书写场景的工具搭配
+- 本次新增：2篇 calligraphy（硬笔创作入门 + 硬笔工具进阶）
+- 下次分类：sketch → appreciation → sketch → practice → sketch → calligraphy（按轮换继续）
+- 下次 sketch：速写与数字工具的结合；或人体动态线与重心线专项；或透视基础专项
 - 下次 appreciation：近现代书法家专题（林散之/沙孟海/启功）；或碑帖对比赏析
-- 下次 sketch：速写与数字工具的结合；或人体动态线与重心线专项
+- 下次 practice：书写+速写联合打卡方案；或静物速写每日训练
 
 ## Phase 进度
 - Phase 1 基础：✅ 完成（01-04 覆盖握笔、线条、观察、几何概括、排线）
@@ -167,8 +169,8 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 - 未来方向：速写结构类文章引用徐悲鸿"骨骼优先"方法；创作类文章引用"尽精微致广大"
 
 ## 统计
-- 总篇数：75
-- sketch: 30篇（40%）
-- calligraphy: 18篇（24%）
+- 总篇数：77
+- sketch: 30篇（39%）
+- calligraphy: 20篇（26%）
 - appreciation: 16篇（21%）
-- practice: 11篇（15%）
+- practice: 11篇（14%）
