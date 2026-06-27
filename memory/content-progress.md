@@ -5,7 +5,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 
 ## 已生成内容
 
-### sketch（31篇）
+### sketch（34篇）
 1. 线条的质量：速写中最重要的一课 (001, 2026-06-22)
 2. 握笔姿势与线条基本功——重建你的速写地基 (01, 2026-06-22)
 3. 坐标观察法：让你画得准的底层功夫 (02, 2026-06-23)
@@ -38,7 +38,8 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 30. 人体动态线与重心线——用两条线解锁一切动态的密码 (30, 2026-06-27)
 31. 透视基础专项——让画面有深度感的底层操作系统 (31, 2026-06-27)
 32. 人体肌肉解剖专项——让笔下的人物真正有力气 (32, 2026-06-28) ← NEW
-33. 动物速写专题——从博物馆标本到公园鸽子的完整实战指南 (33, 2026-06-28) ← NEW
+33. 动物速写专题——从博物馆标本到公园鸽子的完整实战指南 (33, 2026-06-28)
+34. 手部解剖与专项训练——画好人体最难的两个部件 (34, 2026-06-28) ← NEW
 
 ### calligraphy（20篇）
 1. Getting Started / 硬笔入门 (001, 2026-06-22)
@@ -82,7 +83,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 17. 丢勒：用圆规和直尺画出上帝的几何——北方文艺复兴素描大师研究 (017, 2026-06-27) ← NEW
 18. 林散之：用慢笔写出草书的禅意——近现代草圣大师研究 (018, 2026-06-27) ← NEW
 
-### practice（11篇）
+### practice（12篇）
 1. 地铁速写：40分钟通勤时间的观察训练 (001, 2026-06-22)
 2. 5分钟速写挑战：用碎片时间建立每日创作节奏 (002, 2026-06-24)
 3. 每日一字：用碎片时间重建硬笔书法的手感 (003, 2026-06-24)
@@ -92,13 +93,13 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 7. 30天每日一画打卡方案——用一个月养成终身受用的创作习惯 (007, 2026-06-27)
 8. 媒介材质探索——铅笔、炭笔、色粉的不同表达可能性 (008, 2026-06-27)
 10. 户外写生天气应对方案——刮风下雨日晒都不耽误你画画 (010, 2026-06-27)
-11. 旅行速写专题——用画笔记录旅途，从观察到取景的完整方案 (011, 2026-06-27)
+12. 书画双修每日打卡方案——速写与硬笔书法的联合训练系统 (012, 2026-06-28) ← NEW
 
 ## 当前位置
-- 本次新增：2篇 sketch（人体肌肉解剖专项 + 动物速写专题）
-- 下次分类：practice → sketch → calligraphy → appreciation（按轮换继续）
-- 下次 practice：书写+速写联合打卡方案；或静物速写每日训练
-- 下次 sketch：速写与数字工具的结合；或风景速写专题；或手部/足部解剖专项
+- 本次新增：1篇 practice（书画双修打卡） + 1篇 sketch（手部解剖专项）
+- 下次分类：calligraphy → sketch → appreciation → practice（按轮换继续）
+- 下次 calligraphy：印章与款识基础；或硬笔工具深度测评
+- 下次 sketch：足部解剖专项；或风景速写专题；或速写与数字工具的结合
 - 下次 appreciation：沙孟海或启功专题；或碑帖对比赏析；或达·芬奇素描研究
 
 ## Phase 进度
@@ -110,8 +111,8 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
   - 18-27 已完成（Phase 6 核心内容）
   - 28-29 人体结构专项（伯里曼+路米斯），补强结构基础
   - 30-31 动态线/重心线 + 透视基础，补强空间与动态基础
-  - 已完成：人体肌肉解剖专项(32) + 动物速写专题(33)
-- 计划：速写与数字工具的结合 / 风景速写专题 / 手部足部解剖专项
+  - 已完成：人体肌肉解剖(32) + 动物速写(33) + 手部解剖专项(34)
+- 计划：足部解剖专项 / 风景速写专题 / 速写与数字工具的结合
 
 ## 结构基础三件套（2026-06-27 确立）
 - [sketch/28] 伯里曼：体块建筑感、楔入楔出、对立平衡
@@ -129,7 +130,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 
 ## 叶浅予融入计划（2026-06-25 确立）
 - 核心理念：目识（看清结构）→ 心记（记住关系）→ 意测（基于记忆创造）
-- 已融入的文章：[appreciation/005] [sketch/11] [practice/004] [sketch/12] [sketch/13] [practice/005] [sketch/14] [calligraphy/09] [calligraphy/10] [sketch/15] [sketch/16] [appreciation/007] [sketch/17] [calligraphy/11] [sketch/18] [appreciation/008] [sketch/19] [sketch/22] [appreciation/012] [appreciation/013] [sketch/24] [practice/008] [sketch/30]
+- 已融入的文章：[appreciation/005] [sketch/11] [practice/004] [sketch/12] [sketch/13] [practice/005] [sketch/14] [calligraphy/09] [calligraphy/10] [sketch/15] [sketch/16] [appreciation/007] [sketch/17] [calligraphy/11] [sketch/18] [appreciation/008] [sketch/19] [sketch/22] [appreciation/012] [appreciation/013] [sketch/24] [practice/008] [sketch/30] [practice/012] [sketch/34]
 - [calligraphy/16] 节奏感：关联王羲之兰亭序二十个"之"字与叶浅予"意测"——下意识的节奏变化
 - [appreciation/015] 徐悲鸿：与叶浅予两种观察体系对比——徐悲鸿重目识（精确），叶浅予重心记意测（创造）
 - 未来融入方向：Phase 6 后续文章继续引用叶浅予完整创作流程
@@ -182,6 +183,12 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 - 核心理念：线条/空间/节奏/力度是书画共享的底层操作系统
 - 未来方向：速写结构类文章引用"骨法用笔"四要素；练习类文章引用每周书画对照表
 
+## 手部解剖融入记录（2026-06-28）
+- [sketch/34] 手部解剖专题：三体块概括 + 四运动规律 + 四阶段训练 + 大师临摹路线
+- [practice/012] 书画双修打卡：手部线条控制力与硬笔笔画起收的关联
+- 核心理念：骨骼定位→体块概括→运动规律→动态表达 四步递进
+- 关联：伯里曼三体块（腕拱+掌骨扇+指骨柱）；路米斯手掌比例测量；蒋兆和毛笔手部表现；梁楷减笔手部
+
 ## 林散之融入记录（2026-06-27）
 - [appreciation/018] 林散之专题：三阶段人生 + 三幅代表作 + 四层笔法 + 近现代三大家对比
 - 核心理念：以画入书（山水墨法→草书线条）、慢中求活、中锋骨力
@@ -207,8 +214,8 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 - 未来方向：速写结构类文章引用徐悲鸿"骨骼优先"方法；创作类文章引用"尽精微致广大"
 
 ## 统计
-- 总篇数：83
-- sketch: 33篇（40%）
+- 总篇数：85
+- sketch: 34篇（40%）
 - calligraphy: 20篇（24%）
-- appreciation: 18篇（22%）
-- practice: 11篇（13%）
+- appreciation: 18篇（21%）
+- practice: 12篇（14%）
