@@ -33,7 +33,8 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 25. 速写本的使用与管理——你的个人视觉日记 (24, 2026-06-27)
 26. 投稿作品集策划——如何整理个人作品集、选作品、排版与投稿策略 (25, 2026-06-27)
 27. 速写与摄影的关系——从依赖照片到超越照片 (26, 2026-06-27)
-28. 速写创作瓶颈期突破——从画不下去到突破舒适区的系统方法 (27, 2026-06-27) ← NEW
+28. 伯里曼人体结构体系——用方盒子与圆柱搭建人体的西方严谨学派 (28, 2026-06-27)
+29. 路米斯方法——用比例测量系统画准任何角度的人体 (29, 2026-06-27) ← NEW
 
 ### calligraphy（17篇）
 1. Getting Started / 硬笔入门 (001, 2026-06-22)
@@ -86,11 +87,11 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 11. 旅行速写专题——用画笔记录旅途，从观察到取景的完整方案 (011, 2026-06-27) ← NEW
 
 ## 当前位置
-- 本次新增：1篇 calligraphy（三体硬笔转换）+ 1篇 appreciation（书画同源深论）
-- 下次分类：sketch → calligraphy → appreciation（按轮换继续）
-- 下次 sketch：速写与数字工具的结合；或人体结构专项（伯里曼/路米斯方法）
+- 本次新增：2篇 sketch（伯里曼人体结构 + 路米斯比例方法）
+- 下次分类：calligraphy → appreciation → practice → sketch（按轮换继续）
 - 下次 calligraphy：硬笔书法常见败笔诊断与纠正；或不同书写场景的工具搭配
 - 下次 appreciation：近现代书法家专题（林散之/沙孟海/启功）；或碑帖对比赏析
+- 下次 sketch：速写与数字工具的结合；或人体动态线与重心线专项
 
 ## Phase 进度
 - Phase 1 基础：✅ 完成（01-04 覆盖握笔、线条、观察、几何概括、排线）
@@ -98,8 +99,9 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 - Phase 4 抽象形体：✅ 完成（08-10 已写30秒动态速写、负空间观察、体块化训练）
 - Phase 5 风格探索与创作：✅ 完成
 - Phase 6 创作起步：🚀 进行中
-  - 18-26 已完成（Phase 6 核心内容）
-  - 计划：速写创作瓶颈期突破 / 速写与数字工具的结合
+  - 18-27 已完成（Phase 6 核心内容）
+  - 28-29 新增：人体结构专项（伯里曼+路米斯），补强结构基础
+  - 计划：速写与数字工具的结合 / 人体动态线与重心线专项
 
 ## 颜真卿多宝塔碑融入计划（2026-06-27 确立）
 - 核心理念：筋骨法度——横轻竖重的结构骨架、中宫紧凑的视觉密度、外拓张力的动态感
@@ -112,6 +114,13 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 - [calligraphy/16] 节奏感：关联王羲之兰亭序二十个"之"字与叶浅予"意测"——下意识的节奏变化
 - [appreciation/015] 徐悲鸿：与叶浅予两种观察体系对比——徐悲鸿重目识（精确），叶浅予重心记意测（创造）
 - 未来融入方向：Phase 6 后续文章继续引用叶浅予完整创作流程
+
+## 伯里曼/路米斯融入记录（2026-06-27）
+- [sketch/28] 伯里曼专题：体块建筑感、楔入楔出、对立平衡
+- [sketch/29] 路米斯专题：头长比例系统、路米斯头部绘制法
+- 核心理念：伯里曼搭结构（体块），路米斯定比例（测量），叶浅予给动态（心记意测）
+- 关联：徐悲鸿"尽精微致广大"=路米斯精微+伯里曼结构+中国笔墨表达
+- 未来方向：后续创作类文章引用伯里曼对立平衡；人物画引用路米斯比例基准
 
 ## 蒋兆和融入记录（2026-06-26）
 - [appreciation/006] [sketch/13] [practice/005] [sketch/14] [sketch/16] [appreciation/007] [sketch/17] [calligraphy/11] [sketch/18] [appreciation/008] [sketch/19] [appreciation/013]
@@ -158,8 +167,8 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 - 未来方向：速写结构类文章引用徐悲鸿"骨骼优先"方法；创作类文章引用"尽精微致广大"
 
 ## 统计
-- 总篇数：73
-- sketch: 28篇（38%）
-- calligraphy: 18篇（25%）
-- appreciation: 16篇（22%）
+- 总篇数：75
+- sketch: 30篇（40%）
+- calligraphy: 18篇（24%）
+- appreciation: 16篇（21%）
 - practice: 11篇（15%）
