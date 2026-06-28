@@ -5,7 +5,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 
 ## 已生成内容
 
-### sketch（35篇）
+### sketch（40篇）
 1. 线条的质量：速写中最重要的一课 (001, 2026-06-22)
 2. 握笔姿势与线条基本功——重建你的速写地基 (01, 2026-06-22)
 3. 坐标观察法：让你画得准的底层功夫 (02, 2026-06-23)
@@ -45,6 +45,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 37. 风景速写专题——从一棵树到一座城的完整进阶路径 (37, 2026-06-28)
 38. 头像与表情专题——画出灵魂的窗户与情绪的温度 (38, 2026-06-28)
 39. 多人场景速写专题——从一个人到一个世界的完整进阶路径 (39, 2026-06-28)
+40. 夜景速写专题——在黑暗中画光 (40, 2026-06-28) ← NEW
 
 ### calligraphy（24篇）
 1. Getting Started / 硬笔入门 (001, 2026-06-22)
@@ -70,9 +71,9 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 21. 印章与款识基础——让硬笔书法作品完整得体的最后一环 (20, 2026-06-28)
 22. 硬笔书法常见易混淆字辨析——50组高频错字的结构差异与记忆口诀 (21, 2026-06-28)
 23. 异体字选择规则——书法作品中何时该用哪个字形 (22, 2026-06-28)
-24. 落款格式全攻略——让硬笔书法作品完整得体的最后一步 (23, 2026-06-28) ← NEW
+24. 落款格式全攻略——让硬笔书法作品完整得体的最后一步 (23, 2026-06-28)
 
-### appreciation（21篇）
+### appreciation（22篇）
 1. 书画同源：赵孟頫的理论与中国画的线条密码 (001, 2026-06-22)
 2. 门采尔：钢铁与手指的史诗——速写大师研究第一课 (002, 2026-06-23)
 3. 席勒：神经质的线条天才——速写大师研究第三课 (003, 2026-06-23)
@@ -94,6 +95,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 19. 达·芬奇素描研究——用一颗心脏同时泵血给艺术与科学 (019, 2026-06-28)
 20. 启功：用学问养出的字——近现代书法大师研究 (020, 2026-06-28)
 21. 安格尔：用最克制的线条画出最高贵的形——新古典主义素描肖像大师研究 (021, 2026-06-28)
+22. 德加：用色粉笔追逐舞者的脚步——印象派素描大师研究 (022, 2026-06-28) ← NEW
 
 ### practice（14篇）
 1. 地铁速写：40分钟通勤时间的观察训练 (001, 2026-06-22)
@@ -107,14 +109,14 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 9. 户外写生天气应对方案——刮风下雨日晒都不耽误你画画 (010, 2026-06-27)
 10. 书画双修每日打卡方案——速写与硬笔书法的联合训练系统 (012, 2026-06-28)
 11. 速写与硬笔书法联合周计划——7天×每天30分钟的书画双修方案 (013, 2026-06-28)
-12. 头像速写每日打卡——30天从画不像到画灵魂的专项训练方案 (014, 2026-06-28) ← NEW
+12. 头像速写每日打卡——30天从画不像到画灵魂的专项训练方案 (014, 2026-06-28)
 
 ## 当前位置
-- 本次新增：1篇 practice（头像速写30天打卡） + 1篇 calligraphy（落款格式全攻略）
-- 下次分类：sketch → appreciation → sketch
-- 下次 sketch：速写与数字工具的结合；或夜景速写专题；或水墨速写进阶
+- 本次新增：1篇 sketch（夜景速写专题） + 1篇 appreciation（德加大师研究）
+- 下次分类：calligraphy → sketch → practice
+- 下次 sketch：速写与数字工具的结合；或水墨速写进阶；或建筑速写专题
 - 下次 calligraphy：硬笔工具深度测评；或不同纸张的书写适配；或钢笔行书速写技巧
-- 下次 appreciation：沙孟海专题；或碑帖对比赏析；或德加素描研究
+- 下次 appreciation：沙孟海专题；或碑帖对比赏析；或修拉素描研究
 - 下次 practice：多人场景速写专项训练；或异体字运用专项；或旅行速写打卡
 
 ## Phase 进度
@@ -127,7 +129,8 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
   - 28-31 人体结构基础四件套（伯里曼+路米斯+动态线+透视）
   - 32-38 人体结构专项体系（肌肉/动物/手/足/衣纹/风景/头像）
   - 39 多人场景速写专题——Phase 6 叙事创作的集大成者
-  - 下一步扩展方向：速写与数字工具 / 夜景速写 / 水墨速写进阶
+  - 40 夜景速写专题——光影训练的终极考场
+  - 下一步扩展方向：速写与数字工具 / 水墨速写进阶 / 建筑速写
 
 ## 结构基础四件套（2026-06-27 确立）
 - [sketch/28] 伯里曼：体块建筑感、楔入楔出、对立平衡
@@ -139,10 +142,26 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 ## 安格尔融入记录（2026-06-28）
 - [appreciation/021] 安格尔专题：三幅关键素描肖像 + 四大技法特征 + 与中国画关联 + 五大师横向对比
 - [sketch/39] 多人场景速写：引用安格尔"选择性精确"原则和"无废线"理念
+- [appreciation/022] 德加专题：德加与安格尔的线条哲学对比（精确 vs 运动）
 - 核心理念：线条即一切、选择性精确、纯净无废线、形体内压力
 - 与中国画关联：安格尔"线条是绘画的根本"=谢赫"骨法用笔"；安格尔"无废线"="惜墨如金"
-- 关联：安格尔椭圆叠加法→多人场景构图骨架；安格尔轮廓线轻重缓急→速写线条节奏
 - 未来方向：速写线条类文章引用安格尔"轮廓线标准"；创作类文章引用"选择性精确"五级原则
+
+## 德加融入记录（2026-06-28）
+- [appreciation/022] 德加专题：四大技法特征（重复描线/裁切构图/色粉层叠/反英雄视角）+ 三幅关键作品精读 + 五大师横向对比
+- 核心理念：运动捕捉（叠线记录轨迹）、构图裁切（不完整即完整）、色粉速写（底色叠加法）、反英雄视角（画真实不画完美）
+- 与安格尔对比：安格尔画"应该是什么样"，德加画"此刻是什么样"
+- 与中国画关联：德加叠线≈十八描法复笔；德加非完美姿态≈梁楷减笔的酣睡李白；裁切构图≈计白当黑
+- 与大师谱系：承安格尔线条传统→启马蒂斯简化/劳特雷克裁切/基斯·哈林运动人体
+- 未来方向：运动速写类文章引用德加叠线技法；构图类文章引用裁切思维；色粉/媒材类文章引用底色叠加法
+
+## 夜景速写融入记录（2026-06-28）
+- [sketch/40] 夜景速写专题：四步法（观察光位→铺设暗部→刻画光源→点睛氛围）+ 四场景实战（商业街/住宅区/交通路口/雨夜）
+- 核心理念：夜景不是画黑而是画亮——70%留暗30%留亮；白纸就是夜空，画上去的亮区才是主角
+- 四种光源分类：路灯（点光源）/橱窗（面光源）/车灯（线光源）/月光（漫射光）
+- 关联：[sketch/12] 光影概括明暗二分法的终极应用；[sketch/31] 空气透视在夜景中最强；梁楷减笔法用于夜景剪影
+- 媒材建议：HB+2B铅笔+可塑橡皮+白色色粉笔（可选）；先暗后亮的画法=丢勒白色提亮法的速写版
+- 未来方向：水墨速写类文章引用夜景的明暗反转思维；创作类文章提醒雨夜倒影训练
 
 ## 多人场景融入记录（2026-06-28）
 - [sketch/39] 多人场景专题：四技术支柱（三层法/疏密节奏/视线网/省略五级）+ 四阶段递进训练
@@ -157,7 +176,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 
 ## 叶浅予融入计划（2026-06-25 确立）
 - 核心理念：目识（看清结构）→ 心记（记住关系）→ 意测（基于记忆创造）
-- 已融入的文章：[appreciation/005] [sketch/11] [practice/004] [sketch/12] [sketch/13] [practice/005] [sketch/14] [calligraphy/09] [calligraphy/10] [sketch/15] [sketch/16] [appreciation/007] [sketch/17] [calligraphy/11] [sketch/18] [appreciation/008] [sketch/19] [sketch/22] [appreciation/012] [appreciation/013] [sketch/24] [practice/008] [sketch/30] [practice/012] [sketch/34] [sketch/39]
+- 已融入的文章：[appreciation/005] [sketch/11] [practice/004] [sketch/12] [sketch/13] [practice/005] [sketch/14] [calligraphy/09] [calligraphy/10] [sketch/15] [sketch/16] [appreciation/007] [sketch/17] [calligraphy/11] [sketch/18] [appreciation/008] [sketch/19] [sketch/22] [appreciation/012] [appreciation/013] [sketch/24] [practice/008] [sketch/30] [practice/012] [sketch/34] [sketch/39] [sketch/40]
 
 ## 伯里曼/路米斯融入记录（2026-06-27）
 - [sketch/28] 伯里曼专题、[sketch/29] 路米斯专题、[sketch/30] 动态线专题、[sketch/31] 透视专题
@@ -166,10 +185,13 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 ## 蒋兆和融入记录（2026-06-26）
 - [appreciation/006] [sketch/13] [practice/005] [sketch/14] [sketch/16] [appreciation/007] [sketch/17] [calligraphy/11] [sketch/18] [appreciation/008] [sketch/19] [appreciation/013]
 - [sketch/39] 多人场景：蒋兆和《流民图》作为多人场景默写的终极范本
+- [appreciation/022] 德加专题：德加与蒋兆和横向对比
 
 ## 梁楷融入记录（2026-06-27）
 - [appreciation/007] [sketch/17] [sketch/18] [sketch/19] [appreciation/012]
 - [appreciation/021] 安格尔：梁楷减笔与安格尔新古典主义在"取舍"上达成共识
+- [sketch/40] 夜景速写：路灯下人物剪影=梁楷减笔法的现代应用
+- [appreciation/022] 德加：德加非完美姿态≈梁楷减笔的审美共通
 
 ## 史国良融入记录（2026-06-27）
 - [appreciation/008] [sketch/19] [sketch/20] [practice/006]
@@ -185,6 +207,7 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 ## 米芾融入记录（2026-06-27）
 - [appreciation/014] 蜀素帖专题
 - [calligraphy/16] 节奏感：米芾"刷字"哲学
+- [sketch/40] 夜景速写：车灯轨迹快速用笔≈米芾"刷字"笔法
 
 ## 王羲之融入记录（2026-06-27）
 - [appreciation/012] 兰亭序专题
@@ -215,10 +238,12 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 ## 达·芬奇融入记录（2026-06-28）
 - [appreciation/019] 达·芬奇专题
 - [appreciation/021] 安格尔：与达·芬奇对比——达·芬奇用sfumato柔化轮廓，安格尔用纯线强化轮廓
+- [sketch/40] 夜景速写：暗部边缘模糊处理=达·芬奇sfumato的速写版
 
 ## 丢勒融入记录（2026-06-27）
 - [appreciation/017] 丢勒专题
 - [appreciation/021] 安格尔：与丢勒对比——丢勒=几何精确，安格尔=线条优美
+- [sketch/40] 夜景速写：先暗后亮的画法=丢勒白色提亮法
 
 ## 徐悲鸿融入记录（2026-06-27）
 - [appreciation/015] 徐悲鸿专题
@@ -227,11 +252,12 @@ sketch → calligraphy → sketch → appreciation → sketch → practice → (
 - [appreciation/020] 启功专题
 
 ## 统计
-- 总篇数：99
-- sketch: 39篇（39%）
+- 总篇数：101
+- sketch: 40篇（40%）
 - calligraphy: 24篇（24%）
-- appreciation: 21篇（22%）
+- appreciation: 22篇（22%）
 - practice: 14篇（14%）
+
 ## 头像速写打卡融入记录（2026-06-28）
 - [practice/014] 头像速写30天打卡专题
 - 关联：路米斯头部法（sketch/29）+ 三庭五眼 + 六种基本表情 + 安格尔肖像（appreciation/021）+ 席勒（appreciation/003）+ 蒋兆和（appreciation/006）+ 叶浅予意测（appreciation/005）
